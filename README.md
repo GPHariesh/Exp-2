@@ -24,7 +24,8 @@ To design and draw UML diagrams for the LIBRARY MANAGEMENT SYSTEM
 
 
 # communication diagram
-<img width="538" height="1003" alt="ActivityDiagram2" src="https://github.com/user-attachments/assets/b6ed597d-c6a0-4fda-aa1e-f0c7513a7780" />
+<img width="1242" height="932" alt="CommunicationDiagram1" src="https://github.com/user-attachments/assets/909f8353-bdca-43a7-8d5b-e7b2aa8054e7" />
+
 
 
 # package diagram
